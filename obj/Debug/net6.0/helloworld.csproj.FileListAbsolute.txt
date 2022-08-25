@@ -1,0 +1,15 @@
+/Users/bayleywalsh/helloworld/bin/Debug/net6.0/helloworld
+/Users/bayleywalsh/helloworld/bin/Debug/net6.0/helloworld.deps.json
+/Users/bayleywalsh/helloworld/bin/Debug/net6.0/helloworld.runtimeconfig.json
+/Users/bayleywalsh/helloworld/bin/Debug/net6.0/helloworld.dll
+/Users/bayleywalsh/helloworld/bin/Debug/net6.0/helloworld.pdb
+/Users/bayleywalsh/helloworld/obj/Debug/net6.0/helloworld.csproj.AssemblyReference.cache
+/Users/bayleywalsh/helloworld/obj/Debug/net6.0/helloworld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bayleywalsh/helloworld/obj/Debug/net6.0/helloworld.AssemblyInfoInputs.cache
+/Users/bayleywalsh/helloworld/obj/Debug/net6.0/helloworld.AssemblyInfo.cs
+/Users/bayleywalsh/helloworld/obj/Debug/net6.0/helloworld.csproj.CoreCompileInputs.cache
+/Users/bayleywalsh/helloworld/obj/Debug/net6.0/helloworld.dll
+/Users/bayleywalsh/helloworld/obj/Debug/net6.0/refint/helloworld.dll
+/Users/bayleywalsh/helloworld/obj/Debug/net6.0/helloworld.pdb
+/Users/bayleywalsh/helloworld/obj/Debug/net6.0/helloworld.genruntimeconfig.cache
+/Users/bayleywalsh/helloworld/obj/Debug/net6.0/ref/helloworld.dll
